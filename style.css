@@ -80,7 +80,7 @@ input:focus-visible {
     padding-top: 70px;
 }
 
-.txt span {
+.txt:first-child {
     font-size: 20px;
     font-weight: 400;
     letter-spacing: 0.2rem;
